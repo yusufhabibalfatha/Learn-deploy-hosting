@@ -1,0 +1,3 @@
+1. Generate keygen for email
+2. connect to ssh agent
+3. connect repo github to laptop with link ssh
